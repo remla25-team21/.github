@@ -77,7 +77,11 @@ This project was developed as part of the REMLA (Release Engineering for Machine
 
 ## 📄 License
 
-This project is developed for educational purposes as part of REMLA25 coursework.
+This project is developed for educational purposes as part of REMLA25 coursework. 
+
+## 🤖 GenAI Use
+
+Generative AI tools (primarily ChatGPT-4o) were used to support the writing and refinement of README files across our repositories. These tools helped improve clarity, consistency, and structure. All generated content was critically reviewed and revised by team members to align with our actual implementation. 
 
 ---
 
